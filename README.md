@@ -71,7 +71,7 @@ npm run build
 El proyecto está publicado en **GitHub Pages**:
 
 ```
-https://nicolasarielcc.github.io/S1_Frontend_II/
+https://nicolasarielcc.github.io/supermercado-Nicolas-Cavieres-Frontend_II_002A/
 ```
 
 Para volver a desplegar:

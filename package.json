@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://nicolasarielcc.github.io/S1_Frontend_II/",
+  "homepage": "https://nicolasarielcc.github.io/supermercado-Nicolas-Cavieres-Frontend_II_002A/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
